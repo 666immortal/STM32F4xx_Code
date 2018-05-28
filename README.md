@@ -8,8 +8,10 @@ This repository uses to store the core of stm32f429 drivers I had wrote in Unive
 #### NVIC ####
 ## Dev ##
 #### ADC ####
+#### I2C ####
 #### Timer ####
 #### DataType ####
 #### LED ####
-### UART ###
+#### UART ####
 ## Peripheral ##
+#### AT24Cxx ####
